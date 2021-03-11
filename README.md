@@ -1,5 +1,5 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+# This project is is a full integration between Azure devops and Github.
+[![Build Status](https://dev.azure.com/MSACJ/ProyectoDemo/_apis/build/status/alcollaz.ContosoAir?branchName=master)](https://dev.azure.com/MSACJ/ProyectoDemo/_build/latest?definitionId=16&branchName=master)
 
 # Microsoft.Github CI Demo
 
